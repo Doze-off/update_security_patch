@@ -1,3 +1,2 @@
-v1 initial release
+v1 March patch
 
-v2 Fully optimized code
