@@ -1,6 +1,6 @@
 id=update_security_patch
 name=Update security patch
-version=1
+version=V1
 versionCode=1
 author=@NedTOP
 description=Mascara o patch de segurança do sistema e do vendor
