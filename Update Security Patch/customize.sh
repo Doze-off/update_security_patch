@@ -1,14 +1,16 @@
 
-sleep 2
+sleep 1
 ui_print " • Informações do módulo "
 sleep 0.5
 ui_print " • Nome            : Update security patch"
 sleep 0.5
-ui_print " • Desenvolvedor   : @NedTOP "
+ui_print " • Desenvolvedor   : @Papacuz  "
+sleep 0.5
+ui_print " • Canal           : @Papacu_GSIs_MODs "
 sleep 1
 
 # Obtém o novo patch
-novo_patch="2025-03-05"
+novo_patch="2025-04-05"
 # Obtém os patches atuais
 current_patch=$(getprop ro.build.version.security_patch)
 vendor_patch=$(getprop ro.vendor.build.security_patch)
