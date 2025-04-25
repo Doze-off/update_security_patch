@@ -1,6 +1,6 @@
 {
-  "version": "V1",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Doze-off/update_security_patch/releases/download/V1/Update.Security.Patch.V1.zip",
+  "version": "V2",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/Doze-off/update_security_patch/releases/download/V2/Update.Security.Patch.V2.zip",
   "changelog": "https://raw.githubusercontent.com/Doze-off/update_security_patch/update-security-patch/changelog.md"
 }
